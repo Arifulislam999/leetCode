@@ -22,7 +22,6 @@ var combinationSum3 = function (k, n) {
 
 };
 console.log(combinationSum3(3,9));
-// console.log(threeSum([2,3,44,44,5,3,2]));
-// -4,-1,-1,0,1,2
+
 
 // https://leetcode.com/problems/combination-sum-iii/description/
